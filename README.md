@@ -6,5 +6,5 @@ Siv3D で作ったミニゲーム
 
 適当な Visual Studio Project に入れてコンパイルすると動く
 
-## プレイデモ
+## プレイデモ (Youtube)
 [![](https://img.youtube.com/vi/I-OLBi2HCaw/0.jpg)](https://www.youtube.com/watch?v=I-OLBi2HCaw)
